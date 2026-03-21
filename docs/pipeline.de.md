@@ -1,90 +1,93 @@
 # Produktionsablauf
-<!-- translation-sync: {"source": "pipeline.md", "source_hash": "sha256:1304332ab0befb11848d5b8b1a54c3a61724575700834001eef72fecc6014922"} -->
+<!-- translation-sync: {"source": "pipeline.md", "source_hash": "sha256:3378ef25977f67e21f6b0652070041313f42fba34b2e161d27b73255c4948cbe"} -->
 
-Diese Seite beschreibt den **menschlichen Prozess** rund um die Musik: wie aus einer Idee ein einsatzfaehiges Asset wird. Passe Namen wie Discord, Forum oder Ticketsystem an die Werkzeuge an, die das *Night of the Meteor*-Team tatsaechlich nutzt, wenn die Seite angekuendigt wird.
+Diese Seite beschreibt den **menschlichen Prozess** rund um die Musik: wie aus einer Idee ein veröffentlichbares Asset wird.
 
-## Ueberblick
+## Überblick
 
 ```text
-Briefing/Pitch -> WIP teilen -> Review/Notizen -> Finale Deliverables -> QA im Build -> Integriert
+Briefing/Pitch -> WIP teilen -> Review/Notes -> Finale Deliverables -> QA im Build -> Integriert
 ```
 
 ## 1. Briefing oder Pitch
 
-Vor groesserem Aufwand:
+Vor größerem Aufwand klären:
 
-- **Szene / Raum**-ID oder Verweis auf das Design-Dokument.
-- **Stimmung**, **Tempo-Gefuehl**, **ungefaehre Laenge**, **Loop oder One-shot**.
-- **Referenzen** (Links oder Zeitstempel) - Stil, keine kopierte Musik.
-- **Deadlines**, falls an Meilensteinen orientiert gearbeitet wird.
+- **Szene-/Raum-ID** oder Referenz auf ein Design-Dokument.
+- **Geplanter Ingame-Anker** (Szene, Übergang, Animations-/Event-Moment oder Spielzustand).
+- **Stimmung**, **Tempo-Charakter**, **ungefähre Länge**, **Loop vs. One-shot**.
+- **Referenzen** (Links oder Timecodes) als Stilhinweis, nicht als Kopiervorlage.
+- **Deadline**, falls an Milestones gekoppelt gearbeitet wird.
 
-Die musikalische Leitung (oder Regie) **gibt das Briefing frei** oder schlaegt Aenderungen vor. Unaufgeforderte komplette Soundtracks lassen sich ohne diesen Schritt nur schwer integrieren.
+Die musikalische Leitung (oder Regie) **gibt das Briefing frei** oder schlägt Anpassungen vor. Ungefragte komplette Soundtracks lassen sich ohne diesen Schritt meist schwer integrieren.
 
-## 2. Teilen von Work-in-Progress-Versionen
+Wenn ein Cue noch keine konkrete Spielanbindung hat, kann er trotz guter Musik zunächst zurückgestellt werden. Arrangement-/Orchestrierungsaufwand wird für Ideen priorisiert, die bereits mit konkreten Game-Elementen verknüpft sind.
 
-Teile frueh **kurze** Vorschauen:
+## 2. Work in Progress teilen
 
-- **MP3 oder OGG** mit moderater Bitrate reicht zum Anhoeren.
-- Nenne **BPM**, **Tonart** und ob der Clip bereits **loopbar** ist.
+Teile früh **kurze** Vorschauen:
 
-Ziel: **falsche Stimmung** oder **technische Abweichungen** erkennen, bevor du zu viel Arbeit in eine Sackgasse investierst.
+- **MP3 oder OGG** mit moderater Bitrate reicht für Feedback.
+- Nenne **BPM**, **Tonart** und ob der Ausschnitt bereits **loopbar** ist.
 
-## 3. Review und Ueberarbeitung
+Ziel: **falsche Stimmung** oder **technische Fehlrichtung** früh finden, bevor zu viel Zeit in einen falschen Ansatz fließt.
 
-Feedback sollte **konkret** sein ("unter Dialog zu dicht", "Loop-Uebergang in Takt 17 klickt"). Beitragende reagieren mit **versionierten** Dateien (`_v03` usw.).
+## 3. Review und Überarbeitung
 
-**Freigabe** bedeutet, dass die musikalische Leitung (und gegebenenfalls zustaendige Code-Verantwortliche fuer Formatbesonderheiten) sowohl die **kreative** als auch die **technische** Passung bestaetigen.
+Feedback sollte **konkret** sein ("unter Dialog zu dicht", "Loop-Naht in Takt 17 klickt"). Beitragende reagieren mit **versionierten** Dateien (`_v03` usw.).
+
+**Freigabe** heißt: Musikalische Leitung (und bei Formatdetails ggf. Code-Verantwortliche) bestätigen sowohl **kreative** als auch **technische** Eignung.
 
 ## 4. Finale Deliverables
 
-Paketiere genau das, was [Dateiformate & Spezifikationen](formats.md) verlangen, typischerweise:
+Liefere exakt das, was [Dateiformate & Spezifikationen](formats.md) verlangen, typischerweise:
 
-- **Stems** (falls benoetigt) plus **Stereo-Referenzmix**.
+- **Stems** (falls gefordert) plus **Stereo-Referenzmix**.
 - **Loop-Dokumentation** (Takte oder Samples).
-- **Textnotiz** mit Dateinamen und Zweck der einzelnen Dateien.
+- **Textnotiz** mit Dateinamen und Zweck jeder Datei.
 
-Nutze den **Upload-Ort** des Teams - privates Laufwerk, Uebergabe ueber Forumsmoderation oder Issue-Anhang - und keine zufaelligen oeffentlichen Hoster mit ablaufenden Links.
+Nutze den vom Team vorgesehenen **Upload-Ort** - privates Laufwerk, moderierte Forenübergabe oder Issue-Anhang - statt zufälliger Filehoster mit Ablaufdatum.
 
 !!! warning "Entwurf - technische Verifikation ausstehend"
 
-    Diesen Abschnitt spaeter durch **konkrete** Schritte ersetzen: Repository-Pfad, interner Tool-Name, Build-Befehl fuer den Audio-Import und **wer** die Assets in den Game-Branch uebernimmt.
+    Diesen Abschnitt später mit **konkreten Schritten** füllen: Repository-Pfad, interner Tool-Name, Build-Befehl für Audio-Import und **wer** in den Game-Branch merged.
 
-## 5. QA in einem Test-Build
+## 5. QA im Test-Build
 
-Jemand testet einen **aktuellen Build** und prueft:
+Jemand prüft in einem **aktuellen Build**:
 
-- Pegel im Verhaeltnis zu **SFX** und **Sprachausgabe**.
-- **Loop-Verhalten** im eigentlichen Raum (Hallfahnen, Raumwechsel).
-- **Dateigroesse** und **Decode-Ruckler** auf der Zielhardware, falls relevant.
+- Pegel im Verhältnis zu **SFX** und **Voice**.
+- **Loop-Verhalten** im Zielraum (Hallfahnen, Raumwechsel).
+- **Dateigröße** und mögliche **Decode-Hänger** auf Zielhardware.
 
-Bugs gehen mit **Reproduktionsschritten** zurueck ("Raum X betreten, auf Loop 3 warten").
+Bugs gehen mit **klaren Repro-Schritten** zurück ("Raum X betreten, auf Loop 3 warten").
 
 ## 6. Integration und Credits
 
 Nach dem Merge:
 
-- Name erscheint gemaess Team-Richtlinie in den **Credits**.
-- Quelldateien und Sessions bleiben gemaess Vereinbarung zwischen **Komponist/in und Team** archiviert (nicht zwingend oeffentlich).
+- Nennung in den **Credits** nach Teamrichtlinie.
+- Archivierung der Sessions gemäß Vereinbarung zwischen **Komponist/in und Team** (nicht zwingend öffentlich).
 
 ## Rollen (typisch)
 
 | Rolle | Verantwortung |
 |------|----------------|
-| Beitragende | Spezifikation treffen, auf Feedback reagieren, versionierte Finals liefern. |
-| Musikalische Leitung | Kreative Richtung, finale Freigabe, Konsistenz ueber den gesamten Score. |
-| Programmierung / Tools | Importer-Grenzen, Loop-Metadaten, Codec-Unterstuetzung. |
-| QA / Playtest | Verifikation im Spiel. |
+| Beitragende | Spezifikation treffen, Notes umsetzen, versionierte Finals liefern. |
+| Musikalische Leitung | Kreative Richtung, finale Freigabe, Konsistenz über den gesamten Score. |
+| Programmierung / Tools | Importer-Grenzen, Loop-Metadaten, Codec-Support. |
+| QA / Playtest | Ingame-Verifikation. |
 
-## Checkliste fuer den Forenpost
+## Checkliste für den Forenpost
 
-Wenn du die Tutorial-Seite bei **Maniac Mansion Mania** (oder verwandten Foren) postest:
+Wenn du die Tutorial-Seite bei **Maniac Mansion Mania** (oder ähnlichen Foren) vorstellst:
 
-1. Ein kurzer Absatz: **Musik-Zusammenarbeit ist neu** im Vergleich zu Art/Animation.
+1. Kurzer Absatz: **Musik-Zusammenarbeit ist neu** im Vergleich zu Art/Animation.
 2. **Link** auf die kanonische Site-URL (aus der README).
-3. Stichpunktliste: Setup, Formate, Produktionsablauf.
-4. **Wie man mitmacht** (Antwort im Thread, DM, Discord usw.).
+3. Stichpunktliste: Setup, Formate, Pipeline.
+4. **Wie man mitmacht** (auf die offiziellen Kontakt- und Mitmachkanäle verweisen).
 
-## Naechste Schritte
+## Nächste Schritte
 
 - [Dateiformate & Spezifikationen](formats.md)
 - [Glossar](glossary.md)

@@ -1,6 +1,6 @@
 # Production pipeline
 
-This is the **human process** around music: how an idea becomes a shippable asset. Adjust names (Discord, forum, ticket system) to match what the *Night of the Meteor* team actually uses when you announce the site.
+This is the **human process** around music: how an idea becomes a shippable asset.
 
 ## Overview
 
@@ -13,11 +13,14 @@ Brief/pitch → WIP share → Review/notes → Final deliverables → QA in buil
 Before large effort:
 
 - **Scene / room** ID or design doc reference.
+- **Intended in-game hook** (scene, transition, animation/event beat, or game state).
 - **Mood**, **tempo feel**, **approx length**, **loop vs one-shot**.
 - **References** (links or timestamps)—style, not copied audio.
 - **Deadlines** if milestone-driven.
 
 The music lead (or director) **approves the brief** or suggests changes. Unsolicited full soundtracks are hard to integrate without this step.
+
+If a cue has no practical game connection yet, it may be parked even when the music is good. Arrange/orchestrate effort is prioritized for ideas that are already tied to concrete game elements.
 
 ## 2. Work-in-progress sharing
 
@@ -81,7 +84,7 @@ When you post the tutorial site to **Maniac Mansion Mania** (or related forums):
 1. One short paragraph: **music collaboration is new** compared to art/animation.
 2. **Link** to the canonical site URL (from the README).
 3. Bullet list: setup, formats, pipeline.
-4. **How to volunteer** (reply in thread, DM, Discord, etc.).
+4. **How to volunteer** (point people to the official contact and contribution channels).
 
 ## Next steps
 

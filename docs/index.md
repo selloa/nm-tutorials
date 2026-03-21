@@ -28,7 +28,7 @@
 3. Follow [Production pipeline](pipeline.md) for how to share WIPs, receive notes, and submit finals.
 4. Use the [Glossary](glossary.md) if SCUMM-era or game-audio terms are unfamiliar.
 
-Ideas from the writing process can be posted and discussed in the `iMusikbriefkasten(TM)` or `iMusicMailbox (TM)` thread in the *Night of the Meteor* / *Maniac Mansion Mania* forums.
+Ideas from the writing process can be posted and discussed in the relevant *Night of the Meteor* / *Maniac Mansion Mania* forum threads linked below.
 
 ## Official links
 
@@ -44,6 +44,7 @@ These are the main public entry points for project news and community discussion
 
 | Page | What it covers |
 |------|----------------|
+| [Production workflow](workflow.md) | Stage map from writing to mastering. |
 | [Technical setup](setup.md) | Reference workflow: DAW, monitoring, stems vs master, version habits. |
 | [Alternatives](alternatives.md) | Other tools that can hit the same targets. |
 | [File formats & specs](formats.md) | Deliverable formats, naming, loops—**verify against current engine build**. |
