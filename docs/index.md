@@ -2,6 +2,10 @@
 
 *Night of the Meteor* is a long-running fan remake of *Maniac Mansion*. The community has collaborated before on **graphics** and **animation**, but **not** on music in the same structured way. These tutorials exist so outside composers can understand **how** to work on the score: tools, deliverables, and the path from idea to something the team can actually put in the game.
 
+*Created: 2026-03-21. Last updated: 2026-03-21.*
+
+> **Work in progress:** This site is still being shaped. Some pages are only stubs, while others currently go into more detail than the final version probably should. Treat the docs as the current working guide, not a finished handbook.
+
 ## What collaboration means here
 
 **You can**
