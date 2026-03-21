@@ -28,6 +28,8 @@
 3. Follow [Production pipeline](pipeline.md) for how to share WIPs, receive notes, and submit finals.
 4. Use the [Glossary](glossary.md) if SCUMM-era or game-audio terms are unfamiliar.
 
+Ideas from the writing process can be posted and discussed in the `iMusikbriefkasten(TM)` or `iMusicMailbox (TM)` thread in the *Night of the Meteor* / *Maniac Mansion Mania* forums.
+
 ## Official links
 
 - [Night of the Meteor project site](https://night-of-the-meteor.de/)

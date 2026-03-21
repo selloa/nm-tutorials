@@ -25,6 +25,8 @@ https://selloa.github.io/nm-tutorials/
 - Deliverable formats and naming (with notes to verify against the current engine)  
 - How briefs, reviews, and handoffs typically work  
 
+Ideas from the writing process can be posted and discussed in the `iMusikbriefkasten(TM)` / `iMusicMailbox (TM)` thread in the *Night of the Meteor* / *Maniac Mansion Mania* forums.
+
 If you want to contribute music, read the site first, then reply here / contact us via **[add your channel]** so we can align on direction before you invest a lot of time.
 
 ---

@@ -1,5 +1,5 @@
 # Musikalische Zusammenarbeit für *Night of the Meteor*
-<!-- translation-sync: {"source": "index.md", "source_hash": "sha256:ca59be7ac27121321ea6c82f337ea70680146993fc04a38f1f74566762e6bfa3"} -->
+<!-- translation-sync: {"source": "index.md", "source_hash": "sha256:2f0e22590f73aa5ae53511d8505e3b91fa84065baa7bbf214b638fb2dbed17b2"} -->
 
 *Night of the Meteor* ist ein langjähriges Fan-Remake von *Maniac Mansion*. Die Community hat bereits bei **Grafik** und **Animation** zusammengearbeitet, aber **noch nicht auf ähnlich strukturierte Weise bei der Musik**. Diese Tutorials sollen externen Komponistinnen und Komponisten zeigen, **wie** sie am Soundtrack mitarbeiten können: Werkzeuge, Deliverables und der Weg von einer Idee zu etwas, das das Team tatsächlich im Spiel verwenden kann.
 
@@ -24,6 +24,8 @@ Die **musikalische Richtung** liegt weiterhin bei der musikalischen Leitung des 
 2. Lies [Dateiformate & Spezifikationen](formats.md), damit Exporte beim ersten Versuch verwendbar sind.
 3. Folge dem [Produktionsablauf](pipeline.md), um WIPs zu teilen, Feedback zu erhalten und finale Dateien einzureichen.
 4. Nutze das [Glossar](glossary.md), falls dir Begriffe aus der SCUMM-Ära oder dem Game-Audio-Bereich nicht vertraut sind.
+
+Ideen aus dem Schreib- und Entstehungsprozess koennen im `iMusikbriefkasten(TM)` bzw. im `iMusicMailbox (TM)`-Thread in den *Night of the Meteor* / *Maniac Mansion Mania*-Foren gepostet und diskutiert werden.
 
 ## Offizielle Links
 
