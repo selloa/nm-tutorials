@@ -1,0 +1,24 @@
+---
+description: Keep translation metadata synced for docs markdown changes
+globs: docs/**/*.md
+alwaysApply: false
+---
+
+# Translation Sync for Docs
+
+When editing any file under `docs/`, enforce translation-sync checks before considering the task done.
+
+- If an English source doc changes and a localized counterpart exists (for example `*.de.md`), update the translation content as needed.
+- Refresh translation metadata for affected localized pages:
+  - `python scripts/check_translations.py --write <localized-file>`
+- Verify all translation metadata is valid:
+  - `python scripts/check_translations.py`
+- If the check fails, do not stop at explanation only; fix translation/metadata and re-run until it passes.
+- Include a brief note in the final response stating which translation files were updated and that the check passed.
+
+Example:
+
+```powershell
+python scripts/check_translations.py --write docs/index.de.md
+python scripts/check_translations.py
+```

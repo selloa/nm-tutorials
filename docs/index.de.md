@@ -1,5 +1,5 @@
 # Musikproduktion für *Night of the Meteor*
-<!-- translation-sync: {"source": "index.md", "source_hash": "sha256:bff53f46088f44ffd2010643c415aee79f62f262598e6f74fab532f706e0439a"} -->
+<!-- translation-sync: {"source": "index.md", "source_hash": "sha256:e421b56944a08530a0d74b76f03837a9ea6e0aea350304c3f79406a18afa81b6"} -->
 
 *Night of the Meteor* ist ein langjähriges Fan-Remake von *Maniac Mansion*. In der Community gab es bereits strukturierte Zusammenarbeit bei **Grafik** und **Animation**, bei der **Musik** aber bisher nicht in derselben Form. Diese Tutorials erklären externen Komponierenden, **wie** sie am Score mitarbeiten können: Werkzeuge, Deliverables und der Weg von einer Idee zu einem Beitrag, den das Team tatsächlich ins Spiel übernehmen kann.
 
