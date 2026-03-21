@@ -7,4 +7,4 @@ __pycache__/
 
 # Private local notes (never commit content)
 private-notes/*
-!private-notes/.gitkeep
+private-notes/

@@ -51,13 +51,16 @@ plugins:
           nav_translations:
             Home: Startseite
             Production workflow: Produktions-Workflow
-            "Beginner example: writing to arranging": "Einsteigerbeispiel: Writing zu Arranging"
+            "Beginner example: Short Transition Cue": "Einsteigerbeispiel: Kurzer Transition-Cue"
             Technical setup: Technisches Setup
+            Downloads & links: Downloads & Links
+            Template files: Template-Dateien
             Alternatives: Alternativen
             File formats & specs: Dateiformate & Spezifikationen
             Production pipeline: Produktionsablauf
             Glossary: Glossar
             Forum post (draft): Forenbeitrag (Entwurf)
+            About: Ueber
   - search
 
 markdown_extensions:
@@ -70,17 +73,24 @@ markdown_extensions:
 
 extra_javascript:
   - assets/javascripts/language-redirect.js
+  - assets/javascripts/language-toggle.js
+
+extra_css:
+  - assets/stylesheets/language-toggle.css
 
 nav:
   - Home: index.md
   - Production workflow: workflow.md
-  - "Beginner example: writing to arranging": writing-to-arranging-example.md
+  - "Beginner example: Short Transition Cue": writing-to-arranging-example.md
   - Technical setup: setup.md
+  - Downloads & links: downloads.md
+  - Template files: templates.md
   - Alternatives: alternatives.md
   - File formats & specs: formats.md
   - Production pipeline: pipeline.md
   - Glossary: glossary.md
   - Forum post (draft): forum-post-draft.md
+  - About: about.md
 
 extra:
   generator: false

@@ -1,19 +1,15 @@
-# Einsteigerbeispiel: von Writing zu Arranging
-<!-- translation-sync: {"source": "writing-to-arranging-example.md", "source_hash": "sha256:762f09b6f6416b024306fb81734062e5cd6a5fc98a3d7f30ad7f988360c59070"} -->
+# Einsteigerbeispiel: Kurzer Transition-Cue
+<!-- translation-sync: {"source": "writing-to-arranging-example.md", "source_hash": "sha256:2317b0315853d228b339fcd3d39e1028971a7ca6e2b59d71ed7fd3c122bb5a4c"} -->
 
-Diese Seite zeigt einen einfachen, einsteigerfreundlichen Handoff: von einer rohen Writing-Idee zu einer erweiterten frühen Arranging-Version.
+Dieses Beispiel zeigt einen konkreten Workflow vom frühen Writing bis zu Arranging und Sound-Design-Vorbereitung.
 
-Das Ziel ist nicht, einen fertigen Soundtrack-Cue zu zeigen. Das Ziel ist zu zeigen, dass nützliche Beiträge klein anfangen und trotzdem produktionsrelevant sein können.
+Es ist hier, um transparent zu dokumentieren, wie Beiträge in diesem Projekt durch die Stufen gehen können:
 
-## Warum dieses Beispiel existiert
+- Ein Beitrag kann als roher, aber klarer Gameplay-Cue starten.
+- Eine andere Person kann ihn im Arranging und in späteren Schritten erweitern.
+- Der Prozess bleibt sichtbar für Forenlesende, mögliche Mitwirkende und andere Komponierende.
 
-Viele Leute aus dem Forum interessieren sich fürs Musikmachen, zögern aber beim Teilen, weil ihre Ideen noch nicht "poliert genug" klingen.
-
-Dieses Beispiel senkt diese Hürde:
-
-- Eine erste Demo darf roh sein.
-- Sie sollte trotzdem Charakter und Szenenfunktion vermitteln.
-- Eine andere Person kann später arrangieren und erweitern.
+Damit ist diese Seite sowohl ein zugängliches Beispiel als auch eine öffentliche Workflow-Referenz für die Community.
 
 ## Schritt 1: Writing-Demo (frühe Cue-Idee)
 
@@ -51,6 +47,19 @@ Mögliche Verbesserungen im Arranging-Schritt:
 - Interne Balance und Übergänge zwischen Abschnitten verbessern.
 - Dramaturgische Kontur für die Zielszene stärken.
 - Struktur so halten, dass spätere Sound-Design-Arbeit gut anschließen kann.
+
+## Schritt 3: Sound-Design-Pass
+
+Nach dem Arranging kann in einem späteren Produktionsschritt die Platzhalter-Instrumentierung durch authentischere Klangquellen ersetzt werden.
+
+Typische Ziele in dieser Phase:
+
+- Skizzen-Sounds durch spielgeeignete Klangfarben ersetzen.
+- Instrumentenfarbe auf Zielstil und Szenenstimmung abstimmen.
+- Motivklarheit und Arrangement-Intention aus den frühen Schritten erhalten.
+- Cue für konsistentes Mixing/Mastering im Gesamt-Soundtrack vorbereiten.
+
+Hier beginnt der Cue meist, weniger nach Demo und stärker nach final nutzbarem Ingame-Material zu klingen.
 
 ## Was für Einsteiger "gut genug" bedeutet
 

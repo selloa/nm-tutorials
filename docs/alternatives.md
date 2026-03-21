@@ -1,6 +1,6 @@
 # Alternatives to the “default” DAW workflow
 
-The project cares about **outputs and process**, not about which logo is on your toolbar. If you can produce the files in [File formats & specs](formats.md) and follow [Production pipeline](pipeline.md), you can use any of the approaches below—keeping tradeoffs in mind.
+The project cares about **outputs and process**, not about which logo is on your toolbar. If you can produce the files in [File formats & specs](formats.md) and follow [Production pipeline](pipeline.md), you can use any of the approaches below—keeping tradeoffs in mind. For tool installers, see [Downloads & links](downloads.md).
 
 ## Trackers (OpenMPT, Renoise, etc.)
 
@@ -49,3 +49,4 @@ When in doubt, **ask before investing weeks** in a toolchain the build scripts c
 
 - [File formats & specs](formats.md)
 - [Production pipeline](pipeline.md)
+- [Downloads & links](downloads.md)

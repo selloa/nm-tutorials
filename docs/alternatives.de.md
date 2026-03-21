@@ -1,7 +1,7 @@
 # Alternativen zum "Standard"-DAW-Workflow
-<!-- translation-sync: {"source": "alternatives.md", "source_hash": "sha256:51a429898cf9dbe57742c1807ad1a7d2915b2b729aba425d66212b655a16a8e3"} -->
+<!-- translation-sync: {"source": "alternatives.md", "source_hash": "sha256:ca74edbf909db5432fbf1e3ab294d39b445957dd9575dc599a707352990f5467"} -->
 
-Für das Projekt zählen **Output und Prozess**, nicht das Logo deiner DAW. Wenn du die Anforderungen aus [Dateiformate & Spezifikationen](formats.md) erfüllst und dem [Produktionsablauf](pipeline.md) folgst, sind auch alternative Setups möglich - mit den jeweiligen Trade-offs.
+Für das Projekt zählen **Output und Prozess**, nicht das Logo deiner DAW. Wenn du die Anforderungen aus [Dateiformate & Spezifikationen](formats.md) erfüllst und dem [Produktionsablauf](pipeline.md) folgst, sind auch alternative Setups möglich - mit den jeweiligen Trade-offs. Für Tool-Installer siehe [Downloads & Links](downloads.md).
 
 ## Tracker (OpenMPT, Renoise usw.)
 
@@ -50,3 +50,4 @@ Wenn du unsicher bist, lieber **früh nachfragen**, statt Wochen in eine Toolcha
 
 - [Dateiformate & Spezifikationen](formats.md)
 - [Produktionsablauf](pipeline.md)
+- [Downloads & Links](downloads.md)

@@ -1,4 +1,15 @@
 (() => {
+  const LANGUAGE_PREFERENCE_KEY = "nm-tutorials-language";
+
+  try {
+    const preferredLanguage = (window.localStorage.getItem(LANGUAGE_PREFERENCE_KEY) || "").toLowerCase();
+    if (preferredLanguage && !/^de(?:-|$)/i.test(preferredLanguage)) {
+      return;
+    }
+  } catch (_error) {
+    // Continue with browser-language based redirect when storage is unavailable.
+  }
+
   const languages = navigator.languages && navigator.languages.length
     ? navigator.languages
     : [navigator.language || ""];

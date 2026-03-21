@@ -24,10 +24,11 @@
 ## How to get involved
 
 1. Read [Technical setup](setup.md) and [Alternatives](alternatives.md) so you know what workflow is supported.
-2. Read [File formats & specs](formats.md) so exports are usable on first try.
-3. Follow [Production pipeline](pipeline.md) for how to share WIPs, receive notes, and submit finals.
-4. Use the [Glossary](glossary.md) if SCUMM-era or game-audio terms are unfamiliar.
-5. Reach out in the official community forums ([MMM community forum](http://www.maniac-mansion-mania.de/forum/index.php) + [Night of the Meteor boards](https://www.maniac-mansion-mania.de/forum/index.php?board=18.0)) to align your idea with the team.
+2. Use [Downloads & links](downloads.md) to install the tools you need.
+3. Read [File formats & specs](formats.md) so exports are usable on first try.
+4. Follow [Production pipeline](pipeline.md) for how to share WIPs, receive notes, and submit finals.
+5. Use the [Glossary](glossary.md) if SCUMM-era or game-audio terms are unfamiliar.
+6. Reach out in the official community forums ([MMM community forum](http://www.maniac-mansion-mania.de/forum/index.php) + [Night of the Meteor boards](https://www.maniac-mansion-mania.de/forum/index.php?board=18.0)) to align your idea with the team.
 
 Ideas from the writing process can be posted and discussed in the relevant *Night of the Meteor* / *Maniac Mansion Mania* forum threads linked below.
 
@@ -55,10 +56,12 @@ The best next step is a short post with your idea, intended in-game use, and a r
 | Page | What it covers |
 |------|----------------|
 | [Production workflow](workflow.md) | Stage map from writing to mastering. |
-| [Beginner example: writing to arranging](writing-to-arranging-example.md) | Two demo files showing how a rough writing cue can be expanded by arranging. |
+| [Beginner example: Short Transition Cue](writing-to-arranging-example.md) | Two demo files showing how a rough writing cue can be expanded by arranging. |
 | [Technical setup](setup.md) | Reference workflow: DAW, monitoring, stems vs master, version habits. |
+| [Downloads & links](downloads.md) | Organized software download links by budget and workflow stage. |
+| [Template files](templates.md) | Current MuseScore template downloads and future template categories. |
 | [Alternatives](alternatives.md) | Other tools that can hit the same targets. |
-| [File formats & specs](formats.md) | Deliverable formats, naming, loops—**verify against current engine build**. |
+| [File formats & specs](formats.md) | Deliverable formats, naming, loops. |
 | [Production pipeline](pipeline.md) | Brief → WIP → review → final → QA → integration. |
 | [Glossary](glossary.md) | Terms used in adventure-game audio. |
 

@@ -1,5 +1,5 @@
 # Musikalische Zusammenarbeit für *Night of the Meteor*
-<!-- translation-sync: {"source": "index.md", "source_hash": "sha256:179959c6fa184da1a4204a060f5c02b1c9b56b66096b5fcb70690678d8668645"} -->
+<!-- translation-sync: {"source": "index.md", "source_hash": "sha256:ba5d8ba00b2ef237cfc2adac6ddc7eaf813825fde178946a1ad95fd9f4e499cb"} -->
 
 *Night of the Meteor* ist ein langjähriges Fan-Remake von *Maniac Mansion*. In der Community gab es bereits strukturierte Zusammenarbeit bei **Grafik** und **Animation**, bei der **Musik** aber bisher nicht in derselben Form. Diese Tutorials erklären externen Komponierenden, **wie** sie am Score mitarbeiten können: Werkzeuge, Deliverables und der Weg von einer Idee zu einem Beitrag, den das Team tatsächlich ins Spiel übernehmen kann.
 
@@ -25,10 +25,11 @@ Die **kreative Richtung** bleibt bei der musikalischen Leitung und dem Kernentwi
 ## So kannst du mitmachen
 
 1. Lies [Technisches Setup](setup.md) und [Alternativen](alternatives.md), damit du den unterstützten Workflow kennst.
-2. Lies [Dateiformate & Spezifikationen](formats.md), damit Exporte direkt nutzbar sind.
-3. Folge dem [Produktionsablauf](pipeline.md), um WIPs zu teilen, Notes zu bekommen und Finals einzureichen.
-4. Nutze das [Glossar](glossary.md), wenn dir Begriffe aus der SCUMM-Ära oder aus Game Audio noch fehlen.
-5. Melde dich in den offiziellen Community-Foren ([MMM-Community-Forum](http://www.maniac-mansion-mania.de/forum/index.php) + [Night of the Meteor-Forenbereiche](https://www.maniac-mansion-mania.de/forum/index.php?board=18.0)), um deine Idee mit dem Team abzustimmen.
+2. Nutze [Downloads & Links](downloads.md), um die benötigten Tools zu installieren.
+3. Lies [Dateiformate & Spezifikationen](formats.md), damit Exporte direkt nutzbar sind.
+4. Folge dem [Produktionsablauf](pipeline.md), um WIPs zu teilen, Notes zu bekommen und Finals einzureichen.
+5. Nutze das [Glossar](glossary.md), wenn dir Begriffe aus der SCUMM-Ära oder aus Game Audio noch fehlen.
+6. Melde dich in den offiziellen Community-Foren ([MMM-Community-Forum](http://www.maniac-mansion-mania.de/forum/index.php) + [Night of the Meteor-Forenbereiche](https://www.maniac-mansion-mania.de/forum/index.php?board=18.0)), um deine Idee mit dem Team abzustimmen.
 
 Ideen aus dem Schreibprozess können in passenden Threads im *Night of the Meteor* / *Maniac Mansion Mania*-Forum (siehe offizielle Links unten) gepostet und diskutiert werden.
 
@@ -56,10 +57,12 @@ Der beste nächste Schritt ist ein kurzer Post mit deiner Idee, dem geplanten In
 | Seite | Inhalt |
 |------|--------|
 | [Produktions-Workflow](workflow.md) | Stufenübersicht von Writing bis Mastering. |
-| [Einsteigerbeispiel: Writing zu Arranging](writing-to-arranging-example.md) | Zwei Demos zeigen, wie ein roher Writing-Cue im Arranging erweitert werden kann. |
+| [Einsteigerbeispiel: Kurzer Transition-Cue](writing-to-arranging-example.md) | Zwei Demos zeigen, wie ein roher Writing-Cue im Arranging erweitert werden kann. |
 | [Technisches Setup](setup.md) | Referenz-Workflow: DAW, Monitoring, Stems vs. Master, Versionshygiene. |
+| [Downloads & Links](downloads.md) | Organisierte Download-Links für Software nach Budget und Workflow-Phase. |
+| [Template-Dateien](templates.md) | Aktuelle MuseScore-Template-Downloads und kuenftige Template-Kategorien. |
 | [Alternativen](alternatives.md) | Andere Tools, die dieselben Ziele erreichen können. |
-| [Dateiformate & Spezifikationen](formats.md) | Lieferformate, Benennung, Loops - **gegen den aktuellen Engine-Build prüfen**. |
+| [Dateiformate & Spezifikationen](formats.md) | Lieferformate, Benennung, Loops. |
 | [Produktionsablauf](pipeline.md) | Briefing -> WIP -> Review -> Final -> QA -> Integration. |
 | [Glossar](glossary.md) | Begriffe aus dem Adventure-Game-Audio-Kontext. |
 
