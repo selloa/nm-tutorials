@@ -1,5 +1,5 @@
 # Template-Dateien
-<!-- translation-sync: {"source": "templates.md", "source_hash": "sha256:2e67f52e124a4471f95f1db62ad5f84e1688393464f26fd681bca4954e6d2c85"} -->
+<!-- translation-sync: {"source": "templates.md", "source_hash": "sha256:eca8dd2c016ca9c42c976280ec7e3c5a06105aa8d2d6b37496e15ed0f3c86fc2"} -->
 
 Diese Seite ist der zentrale Ort fuer Projekt-Template-Dateien.
 

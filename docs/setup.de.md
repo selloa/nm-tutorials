@@ -1,5 +1,5 @@
 # Technisches Setup (MIDI-First)
-<!-- translation-sync: {"source": "setup.md", "source_hash": "sha256:75c8d69b93e956a0366604254acbcb0e872586c8dadf5e2e8e21dbded9460a70"} -->
+<!-- translation-sync: {"source": "setup.md", "source_hash": "sha256:937079411ab96c1c7f4350314ec35ac6dd6f8894e22ed361e8acaa320b11e64f"} -->
 
 Dieser Abschnitt orientiert sich am **aktuellen Community-Workflow** und unterstuetzt vor allem den **Schreib- und Orchestrationsprozess**: zuerst Ideen in einem Tool schreiben, das **MIDI exportieren** kann. Eine DAW ist dafür **nicht** zwingend erforderlich. Wenn du ein anderes Setup verwendest, lies [Alternativen](alternatives.md) und erfülle trotzdem die Anforderungen aus [Dateiformate & Spezifikationen](formats.md). Wenn dir noch Software fehlt, starte mit [Downloads & Links](downloads.md).
 

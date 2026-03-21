@@ -1,5 +1,5 @@
 # Ueber
-<!-- translation-sync: {"source": "about.md", "source_hash": "sha256:8e306fb8f0f09b7ecab6b6777ed8a136b99fe2d8dc4fcb3ec39dd70f050885d2"} -->
+<!-- translation-sync: {"source": "about.md", "source_hash": "sha256:8651a822ac3c50295a34db57b25bdea772db7cc509ef676a9508718d1ceb2f3c"} -->
 
 Diese Dokumentation ist bewusst oeffentlich und Open Source.
 

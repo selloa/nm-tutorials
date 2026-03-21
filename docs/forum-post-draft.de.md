@@ -1,5 +1,5 @@
 # Forenankündigung (Entwurf)
-<!-- translation-sync: {"source": "forum-post-draft.md", "source_hash": "sha256:f9e95c908cb05b9f3f671e4c5adf9f9d93b856f00120cb1c0b548fc8421d1476"} -->
+<!-- translation-sync: {"source": "forum-post-draft.md", "source_hash": "sha256:26c2ee6afe9c3bf6abb035762b7affee42e43e42e9672ef3ac91cdbfbac962d4"} -->
 
 Vorlage für einen Forenpost bei **Maniac Mansion Mania** (oder im jeweiligen Projekt-Thread). Die Live-URL der Tutorial-Seite steht unten.
 
