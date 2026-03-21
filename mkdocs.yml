@@ -1,0 +1,55 @@
+site_name: Night of the Meteor — Music tutorials
+site_description: Community guide for contributing music to Night of the Meteor
+site_author: Night of the Meteor team
+site_url: https://selloa.github.io/nm-tutorials/
+
+repo_name: nm-tutorials
+repo_url: https://github.com/selloa/nm-tutorials
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Technical setup: setup.md
+  - Alternatives: alternatives.md
+  - File formats & specs: formats.md
+  - Production pipeline: pipeline.md
+  - Glossary: glossary.md
+  - Forum post (draft): forum-post-draft.md
+
+extra:
+  generator: false
