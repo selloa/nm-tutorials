@@ -1,5 +1,5 @@
 # Einsteigerbeispiel: von Writing zu Arranging
-<!-- translation-sync: {"source": "writing-to-arranging-example.md", "source_hash": "sha256:a432b9ebfb3d4a004b205997179d31280f3c7bea50207b3ced2c1a2125d15847"} -->
+<!-- translation-sync: {"source": "writing-to-arranging-example.md", "source_hash": "sha256:762f09b6f6416b024306fb81734062e5cd6a5fc98a3d7f30ad7f988360c59070"} -->
 
 Diese Seite zeigt einen einfachen, einsteigerfreundlichen Handoff: von einer rohen Writing-Idee zu einer erweiterten frühen Arranging-Version.
 
@@ -20,7 +20,7 @@ Dieses Beispiel senkt diese Hürde:
 **Audio:** `demo-writing.mp3`
 
 <audio controls preload="none">
-  <source src="assets/audio/writing-to-arranging/demo-writing.mp3" type="audio/mpeg">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo-writing.mp3" type="audio/mpeg">
   Dein Browser unterstützt das Audio-Element nicht.
 </audio>
 
@@ -41,7 +41,7 @@ In dieser Phase ist "unfertig" in Ordnung, solange der Cue bereits hat:
 **Audio:** `demo-orchestrated.mp3`
 
 <audio controls preload="none">
-  <source src="assets/audio/writing-to-arranging/demo-orchestrated.mp3" type="audio/mpeg">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo-orchestrated.mp3" type="audio/mpeg">
   Dein Browser unterstützt das Audio-Element nicht.
 </audio>
 

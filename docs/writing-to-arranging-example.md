@@ -19,7 +19,7 @@ This example lowers that barrier:
 **Audio:** `demo-writing.mp3`
 
 <audio controls preload="none">
-  <source src="assets/audio/writing-to-arranging/demo-writing.mp3" type="audio/mpeg">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo-writing.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -40,7 +40,7 @@ At this stage, "unfinished" is acceptable when the cue already has:
 **Audio:** `demo-orchestrated.mp3`
 
 <audio controls preload="none">
-  <source src="assets/audio/writing-to-arranging/demo-orchestrated.mp3" type="audio/mpeg">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo-orchestrated.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
