@@ -1,4 +1,4 @@
-# Music collaboration for Night of the Meteor
+# Music production for *Night of the Meteor*
 
 *Night of the Meteor* is a long-running fan remake of *Maniac Mansion*. The community has collaborated before on **graphics** and **animation**, but **not** on music in the same structured way. These tutorials exist so outside composers can understand **how** to work on the score: tools, deliverables, and the path from idea to something the team can actually put in the game.
 
