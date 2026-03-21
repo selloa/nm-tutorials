@@ -11,7 +11,7 @@ Pick one primary DAW and stick with it for the project so session recall and ste
 - **Logic Pro** — If you are on macOS and already productive in it.
 - **FL Studio / Ableton Live** — Fine if you commit to disciplined stem exports and naming.
 
-The music lead’s own setup may differ; what matters is that **your finals** match the agreed spec.
+At the moment, the music lead is primarily using **Ableton Live**, with **Cubase** also available when needed. What matters most, though, is that **your finals** match the agreed spec.
 
 ## Audio interface and monitoring
 
