@@ -1,4 +1,4 @@
-# Ueber
+# Ueber diese Dokumentation
 <!-- translation-sync: {"source": "about.md", "source_hash": "sha256:8651a822ac3c50295a34db57b25bdea772db7cc509ef676a9508718d1ceb2f3c"} -->
 
 Diese Dokumentation ist bewusst oeffentlich und Open Source.
@@ -18,7 +18,7 @@ Ein geplanter Schritt ist eine zentrale, community-oeffentliche Stelle fuer Musi
 Die geplante oeffentliche Variante soll Mitwirkenden helfen:
 
 - zu sehen, welche Aufgaben aktuell offen sind
-- notwendige Assets spoilerarm zu erhalten
+- auf notwendige Assets zuzugreifen, ohne die Handlung zu verraten
 - Arbeit in Abstimmung mit den Leads zu koordinieren
 - Assets in integrationsfaehigem Format abzugeben
 

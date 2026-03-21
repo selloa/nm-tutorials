@@ -20,7 +20,7 @@
 - Dass jede Idee unverändert ins Spiel kommt. Adventure-Games brauchen Musik, die zu Szene, Dramaturgie und technischen Grenzen passt.
 - Dass das Spiel-Repository öffentlich am gleichen Ort liegt wie diese Dokumentation; Übergabedetails stehen im [Produktionsablauf](pipeline.md).
 
-Die **kreative Richtung** bleibt bei der musikalischen Leitung und dem Kernentwicklerteam. Diese Dokumentation beschreibt **Prozess und technische Übergabe**, nicht den Austausch kreativer Verantwortung.
+Die **kreative Richtung** bleibt bei der musikalischen Leitung und dem Kernentwicklerteam. Diese Dokumentation beschreibt **Prozess und technische Übergabe**, nicht den Ersatz kreativer Leitung durch ein freies "Alle dürfen alles entscheiden".
 
 ## So kannst du mitmachen
 
@@ -60,7 +60,7 @@ Der beste nächste Schritt ist ein kurzer Post mit deiner Idee, dem geplanten In
 | [Beispiel: Kurzer Transition-Cue](writing-to-arranging-example.md) | Zwei Demos zeigen, wie ein roher Writing-Cue im Arranging erweitert werden kann. |
 | [Technisches Setup](setup.md) | Referenz-Workflow: DAW, Monitoring, Stems vs. Master, Versionshygiene. |
 | [Downloads & Links](downloads.md) | Organisierte Download-Links für Software nach Budget und Workflow-Phase. |
-| [Template-Dateien](templates.md) | Aktuelle MuseScore-Template-Downloads und kuenftige Template-Kategorien. |
+| [Template-Dateien](templates.md) | Aktuelle MuseScore-Template-Downloads und künftige Template-Kategorien. |
 | [Alternativen](alternatives.md) | Andere Tools, die dieselben Ziele erreichen können. |
 | [Dateiformate & Spezifikationen](formats.md) | Lieferformate, Benennung, Loops. |
 | [Produktionsablauf](pipeline.md) | Briefing -> WIP -> Review -> Final -> QA -> Integration. |

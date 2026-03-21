@@ -51,7 +51,7 @@ plugins:
           nav_translations:
             Home: Startseite
             Production workflow: Produktions-Workflow
-            "Beginner example: Short Transition Cue": "Einsteigerbeispiel: Kurzer Transition-Cue"
+            example: beispiel
             Technical setup: Technisches Setup
             Downloads & links: Downloads & Links
             Template files: Template-Dateien
@@ -81,7 +81,7 @@ extra_css:
 nav:
   - Home: index.md
   - Production workflow: workflow.md
-  - "Beginner example: Short Transition Cue": writing-to-arranging-example.md
+  - example: writing-to-arranging-example.md
   - Technical setup: setup.md
   - Downloads & links: downloads.md
   - Template files: templates.md

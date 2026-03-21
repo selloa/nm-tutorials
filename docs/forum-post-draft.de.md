@@ -7,7 +7,7 @@ Vorlage für einen Forenpost bei **Maniac Mansion Mania** (oder im jeweiligen Pr
 
 **Titelidee:** Night of the Meteor - so funktioniert die Zusammenarbeit bei der Musik (Tutorials)
 
-Wir haben für *Night of the Meteor* einen **strukturierten Weg zur Musik-Zusammenarbeit** eröffnet. Bei Grafik und Animation hat die Community schon länger gemeinsam gearbeitet, bei **Musik** gab es bisher aber kein vergleichbares Playbook. Deshalb gibt es jetzt eine kompakte Tutorial-Seite mit **technischem Setup**, **Tool-Alternativen**, **Dateiformaten** und dem **Produktionsablauf** von der Idee bis zur Integration.
+Wir haben für *Night of the Meteor* einen **strukturierten Weg zur Musik-Zusammenarbeit** eröffnet. Bei Grafik und Animation hat die Community schon länger gemeinsam gearbeitet, bei **Musik** gab es bisher aber kein vergleichbares Playbook. Deshalb hat die musikalische Leitung eine kompakte Tutorial-Seite zusammengestellt mit **technischem Setup**, **Tool-Alternativen**, **Dateiformaten** und dem **Produktionsablauf** von der Idee bis zur Integration.
 
 **Tutorials (Read-only-Site):**  
 https://selloa.github.io/nm-tutorials/

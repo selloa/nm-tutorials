@@ -32,7 +32,7 @@ In dieser Phase ist "unfertig" in Ordnung, solange der Cue bereits hat:
 - Einen klaren Platz im Gameplay.
 - Einen klaren Platz in Welt und Stil des Spiels.
 
-## Schritt 2: Frühe Arranging-Version (Erweiterung durch andere)
+## Schritt 2: Frühe Arranging-Version (Erweiterung durch eine andere mitwirkende Person)
 
 **Audio:** `demo-orchestrated.mp3`
 
@@ -69,4 +69,4 @@ Demos müssen nicht final klingen. In diesem Workflow müssen sie nur drei Krite
 2. Zum Gameplay-Moment passen.
 3. Die technischen Anforderungen einhalten (Formate, Benennung, Übergabe).
 
-Nutze [Dateiformate & Spezifikationen](formats.de.md) und [Produktionsablauf](pipeline.de.md) als praktische Checkliste vor der Übergabe.
+Nutze [Dateiformate & Spezifikationen](formats.md) und [Produktionsablauf](pipeline.md) als praktische Checkliste vor der Übergabe.

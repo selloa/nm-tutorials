@@ -19,7 +19,7 @@ Vor größerem Aufwand klären:
 - **Referenzen** (Links oder Timecodes) als Stilhinweis, nicht als Kopiervorlage.
 - **Deadline**, falls an Milestones gekoppelt gearbeitet wird.
 
-Die musikalische Leitung (oder Regie) **gibt das Briefing frei** oder schlägt Anpassungen vor. Ungefragte komplette Soundtracks lassen sich ohne diesen Schritt meist schwer integrieren.
+Die musikalische Leitung (oder Regie) **genehmigt das Briefing** oder schlägt Anpassungen vor. Ungefragte komplette Soundtracks lassen sich ohne diesen Schritt meist schwer integrieren.
 
 Wenn ein Cue noch keine konkrete Spielanbindung hat, kann er trotz guter Musik zunächst zurückgestellt werden. Arrangement-/Orchestrierungsaufwand wird für Ideen priorisiert, die bereits mit konkreten Game-Elementen verknüpft sind.
 
@@ -73,7 +73,7 @@ Nach dem Merge:
 
 | Rolle | Verantwortung |
 |------|----------------|
-| Beitragende | Spezifikation treffen, Notes umsetzen, versionierte Finals liefern. |
+| Beitragende | Spezifikation erfüllen, Notes umsetzen, versionierte Finals liefern. |
 | Musikalische Leitung | Kreative Richtung, finale Freigabe, Konsistenz über den gesamten Score. |
 | Programmierung / Tools | Importer-Grenzen, Loop-Metadaten, Codec-Support. |
 | QA / Playtest | Ingame-Verifikation. |

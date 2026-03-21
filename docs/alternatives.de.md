@@ -44,7 +44,7 @@ Für das Projekt zählen **Output und Prozess**, nicht das Logo deiner DAW. Wenn
 | für Live-Spieler schreibst | Notationssoftware -> DAW-Mixdown |
 | nur Audacity hast | Für **einfache** Cues machbar; früh mit der musikalischen Leitung abstimmen |
 
-Wenn du unsicher bist, lieber **früh nachfragen**, statt Wochen in eine Toolchain zu investieren, die von den Build-Skripten nicht ingestiert werden kann.
+Wenn du unsicher bist, lieber **früh nachfragen**, statt Wochen in eine Toolchain zu investieren, die von den Build-Skripten nicht verarbeitet werden kann.
 
 ## Nächste Schritte
 

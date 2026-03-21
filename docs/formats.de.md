@@ -55,7 +55,7 @@ Loopende Adventure-Cues sollten:
 
 1. **Sauber loopen** - kein Klick, kein Lautheitssprung, kein unschöner Hall-Abschnitt (außer als bewusst harter Loop gestaltet).
 2. Dokumentieren, **wie** geloopt wurde: "Beats 5-36", "Samples 88200-396900" oder Screenshot der DAW-Auswahl.
-3. Optional auch als **One-shot** geliefert werden, falls die Szene den Cue vom Start ohne Loop spielen soll.
+3. Zusätzlich eine **One-shot**-Version liefern, falls die Szene den Cue vom Start ohne Loop spielen soll.
 
 ## Lautheit
 
