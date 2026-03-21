@@ -19,7 +19,7 @@
 - That every idea ships unchanged—adventure games need music that fits scenes, pacing, and technical limits.
 - That the game repo is public in the same place as this documentation; handoff details are described in [Production pipeline](pipeline.md).
 
-**Musical direction** still sits with the project’s music lead. These docs describe **process and technical handoff**, not a free-for-all replacement of creative leadership.
+**Musical direction** still sits with the project’s music lead and core developer team. These docs describe **process and technical handoff**, not a free-for-all replacement of creative leadership.
 
 ## How to get involved
 
@@ -27,24 +27,35 @@
 2. Read [File formats & specs](formats.md) so exports are usable on first try.
 3. Follow [Production pipeline](pipeline.md) for how to share WIPs, receive notes, and submit finals.
 4. Use the [Glossary](glossary.md) if SCUMM-era or game-audio terms are unfamiliar.
+5. Reach out in the official community forums ([MMM community forum](http://www.maniac-mansion-mania.de/forum/index.php) + [Night of the Meteor boards](https://www.maniac-mansion-mania.de/forum/index.php?board=18.0)) to align your idea with the team.
 
 Ideas from the writing process can be posted and discussed in the relevant *Night of the Meteor* / *Maniac Mansion Mania* forum threads linked below.
 
 ## Official links
 
 - [Night of the Meteor project site](https://night-of-the-meteor.de/)
-- [Maniac Mansion Mania community website](https://www.maniac-mansion-mania.de/)
-- [Maniac Mansion Mania forum](http://www.maniac-mansion-mania.de/forum/index.php)
-- [German Night of the Meteor developer forum](https://www.maniac-mansion-mania.de/forum/index.php?board=18.0)
+- [Maniac Mansion Mania project site](https://www.maniac-mansion-mania.de/)
+- [Maniac Mansion Mania community forum](http://www.maniac-mansion-mania.de/forum/index.php)
+- [German Night of the Meteor thread](https://www.maniac-mansion-mania.de/forum/index.php?board=18.0)
 - [English Night of the Meteor thread](https://www.maniac-mansion-mania.de/forum/index.php?board=19.0)
 
 These are the main public entry points for project news and community discussion. If additional contact channels such as Discord or email are relevant, link them from the official project or forum announcement rather than treating this repo as the source of truth.
+
+## Join the community
+
+If you want to contribute music, start the conversation in the community forums:
+
+- Use the **Maniac Mansion Mania community forum** for public discussion and onboarding.
+- Use the **Night of the Meteor forum boards** (German/English) for project-specific exchange.
+
+The best next step is a short post with your idea, intended in-game use, and a rough demo link.
 
 ## Table of contents
 
 | Page | What it covers |
 |------|----------------|
 | [Production workflow](workflow.md) | Stage map from writing to mastering. |
+| [Beginner example: writing to arranging](writing-to-arranging-example.md) | Two demo files showing how a rough writing cue can be expanded by arranging. |
 | [Technical setup](setup.md) | Reference workflow: DAW, monitoring, stems vs master, version habits. |
 | [Alternatives](alternatives.md) | Other tools that can hit the same targets. |
 | [File formats & specs](formats.md) | Deliverable formats, naming, loops—**verify against current engine build**. |

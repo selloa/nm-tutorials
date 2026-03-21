@@ -4,3 +4,7 @@ site/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Private local notes (never commit content)
+private-notes/*
+!private-notes/.gitkeep

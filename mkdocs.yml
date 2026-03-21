@@ -51,6 +51,7 @@ plugins:
           nav_translations:
             Home: Startseite
             Production workflow: Produktions-Workflow
+            "Beginner example: writing to arranging": "Einsteigerbeispiel: Writing zu Arranging"
             Technical setup: Technisches Setup
             Alternatives: Alternativen
             File formats & specs: Dateiformate & Spezifikationen
@@ -73,6 +74,7 @@ extra_javascript:
 nav:
   - Home: index.md
   - Production workflow: workflow.md
+  - "Beginner example: writing to arranging": writing-to-arranging-example.md
   - Technical setup: setup.md
   - Alternatives: alternatives.md
   - File formats & specs: formats.md

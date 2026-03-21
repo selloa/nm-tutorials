@@ -1,6 +1,6 @@
 # Forum announcement (draft)
 
-Copy and adapt this for **Maniac Mansion Mania** (or your project thread). The live site URL is below.
+Template for a forum announcement on **Maniac Mansion Mania** (or the relevant project thread). The live site URL is below.
 
 ---
 
@@ -14,8 +14,8 @@ https://selloa.github.io/nm-tutorials/
 **Official project links:**  
 - Project site: https://night-of-the-meteor.de/  
 - Maniac Mansion Mania site: https://www.maniac-mansion-mania.de/  
-- Maniac Mansion Mania forum: http://www.maniac-mansion-mania.de/forum/index.php  
-- German Night of the Meteor developer forum: https://www.maniac-mansion-mania.de/forum/index.php?board=18.0  
+- Maniac Mansion Mania community forum: http://www.maniac-mansion-mania.de/forum/index.php  
+- German Night of the Meteor thread: https://www.maniac-mansion-mania.de/forum/index.php?board=18.0  
 - English Night of the Meteor thread: https://www.maniac-mansion-mania.de/forum/index.php?board=19.0
 
 **What’s inside**
@@ -27,8 +27,8 @@ https://selloa.github.io/nm-tutorials/
 
 Ideas from the writing process can be posted and discussed in the relevant *Night of the Meteor* / *Maniac Mansion Mania* forum threads listed above.
 
-If you want to contribute music, read the site first, then reply here / contact us via **[add your channel]** so we can align on direction before you invest a lot of time.
+If you want to contribute music, read the site first, then reply in the thread or use the official project and forum channels so direction can be aligned early, before a lot of time is invested.
 
 ---
 
-*Maintainers: keep this draft in sync with the live URL in [README.md](https://github.com/selloa/nm-tutorials/blob/main/README.md).*
+<!-- Maintainer note: keep this draft in sync with the live URL in README.md. -->
