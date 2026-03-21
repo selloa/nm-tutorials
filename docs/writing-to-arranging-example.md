@@ -1,4 +1,4 @@
-# Beginner example: Short Transition Cue
+# Example: Short Transition Cue
 
 This example explains a concrete workflow from early writing to arranging and sound-design preparation.
 

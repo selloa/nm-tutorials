@@ -1,4 +1,4 @@
-# Einsteigerbeispiel: Kurzer Transition-Cue
+# Beispiel: Kurzer Transition-Cue
 <!-- translation-sync: {"source": "writing-to-arranging-example.md", "source_hash": "sha256:01aa012bb3c0e943772d8a259448e423c4d3d1361934fb7a6cda31084575d484"} -->
 
 Dieses Beispiel zeigt einen konkreten Workflow vom frühen Writing bis zu Arranging und Sound-Design-Vorbereitung.

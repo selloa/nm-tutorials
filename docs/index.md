@@ -6,7 +6,7 @@
 
 > **Work in progress:** This site is still being shaped. Some pages are only stubs, while others currently go into more detail than the final version probably should. Treat the docs as the current working guide, not a finished handbook.
 
-## What collaboration means here
+## Want to contribute?
 
 **You can**
 
@@ -56,7 +56,7 @@ The best next step is a short post with your idea, intended in-game use, and a r
 | Page | What it covers |
 |------|----------------|
 | [Production workflow](workflow.md) | Stage map from writing to mastering. |
-| [Beginner example: Short Transition Cue](writing-to-arranging-example.md) | Two demo files showing how a rough writing cue can be expanded by arranging. |
+| [Example: Short Transition Cue](writing-to-arranging-example.md) | Two demo files showing how a rough writing cue can be expanded by arranging. |
 | [Technical setup](setup.md) | Reference workflow: DAW, monitoring, stems vs master, version habits. |
 | [Downloads & links](downloads.md) | Organized software download links by budget and workflow stage. |
 | [Template files](templates.md) | Current MuseScore template downloads and future template categories. |

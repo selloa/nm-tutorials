@@ -7,7 +7,7 @@
 
 > **Work in progress:** Diese Seite wird noch ausgebaut. Manche Kapitel sind derzeit nur Platzhalter, andere gehen aktuell tiefer ins Detail als die spätere Fassung. Nutze die Doku als laufenden Arbeitsstand, nicht als fertiges Handbuch.
 
-## Was Zusammenarbeit hier bedeutet
+## Willst du mitmachen?
 
 **Du kannst**
 
@@ -57,7 +57,7 @@ Der beste nächste Schritt ist ein kurzer Post mit deiner Idee, dem geplanten In
 | Seite | Inhalt |
 |------|--------|
 | [Produktions-Workflow](workflow.md) | Stufenübersicht von Writing bis Mastering. |
-| [Einsteigerbeispiel: Kurzer Transition-Cue](writing-to-arranging-example.md) | Zwei Demos zeigen, wie ein roher Writing-Cue im Arranging erweitert werden kann. |
+| [Beispiel: Kurzer Transition-Cue](writing-to-arranging-example.md) | Zwei Demos zeigen, wie ein roher Writing-Cue im Arranging erweitert werden kann. |
 | [Technisches Setup](setup.md) | Referenz-Workflow: DAW, Monitoring, Stems vs. Master, Versionshygiene. |
 | [Downloads & Links](downloads.md) | Organisierte Download-Links für Software nach Budget und Workflow-Phase. |
 | [Template-Dateien](templates.md) | Aktuelle MuseScore-Template-Downloads und kuenftige Template-Kategorien. |
