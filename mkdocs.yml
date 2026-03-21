@@ -9,6 +9,7 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  language: en
   palette:
     - scheme: default
       primary: indigo
@@ -23,7 +24,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.instant
     - navigation.tracking
     - navigation.expand
     - navigation.top
@@ -32,6 +32,30 @@ theme:
     - content.code.copy
 
 plugins:
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: de
+          name: Deutsch
+          build: true
+          site_name: Night of the Meteor — Musik-Tutorials
+          site_description: Community-Leitfaden für Musikbeiträge zu Night of the Meteor
+          theme:
+            language: de
+          nav_translations:
+            Home: Startseite
+            Technical setup: Technisches Setup
+            Alternatives: Alternativen
+            File formats & specs: Dateiformate & Spezifikationen
+            Production pipeline: Produktionsablauf
+            Glossary: Glossar
+            Forum post (draft): Forenbeitrag (Entwurf)
   - search
 
 markdown_extensions:
@@ -41,6 +65,9 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+
+extra_javascript:
+  - assets/javascripts/language-redirect.js
 
 nav:
   - Home: index.md

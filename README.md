@@ -10,6 +10,14 @@ The published site is built from Markdown in [`docs/`](docs/) using [MkDocs](htt
 
 The site is built and deployed by [GitHub Actions](.github/workflows/deploy.yml) on every push to `main`.
 
+## Related links
+
+- [Night of the Meteor project site](https://night-of-the-meteor.de/)
+- [Maniac Mansion Mania community website](https://www.maniac-mansion-mania.de/)
+- [Maniac Mansion Mania forum](http://www.maniac-mansion-mania.de/forum/index.php)
+- [German Night of the Meteor developer forum](https://www.maniac-mansion-mania.de/forum/index.php?board=18.0)
+- [English Night of the Meteor thread](https://www.maniac-mansion-mania.de/forum/index.php?board=19.0)
+
 ## Who this is for
 
 - Composers and arrangers who want to help with the game’s music.
@@ -65,6 +73,29 @@ Output is written to `site/`.
 
 - **Small fixes** (typos, clarity): pull requests to this repo are welcome if you use GitHub; otherwise follow whatever process the project announces on the forums.
 - **Substantive pipeline or format changes** should be agreed with the music lead so the docs stay aligned with the real import/build path.
+
+## Translation sync workflow
+
+English Markdown files in [`docs/`](docs/) are the **source of truth**. Localized pages live next to them with a locale suffix such as [`docs/index.de.md`](docs/index.de.md).
+
+Each localized page carries a hidden `translation-sync` comment near the top that stores the hash of the English source file it currently matches. This comment does not render on the public site.
+
+When you update an English page:
+
+1. Update the corresponding localized page if a translation exists.
+2. Refresh its sync metadata:
+
+```bash
+python scripts/check_translations.py --write docs/index.de.md
+```
+
+To check all translations locally:
+
+```bash
+python scripts/check_translations.py
+```
+
+The GitHub Actions build runs this check before `mkdocs build --strict`, so the deploy will fail if a translated page is out of sync with its English source.
 
 ## Deploy to GitHub Pages
 

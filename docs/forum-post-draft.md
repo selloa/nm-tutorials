@@ -11,6 +11,13 @@ We have opened a **structured path for music collaboration** for *Night of the M
 **Tutorials (read-only site):**  
 https://selloa.github.io/nm-tutorials/
 
+**Official project links:**  
+- Project site: https://night-of-the-meteor.de/  
+- Maniac Mansion Mania site: https://www.maniac-mansion-mania.de/  
+- Maniac Mansion Mania forum: http://www.maniac-mansion-mania.de/forum/index.php  
+- German Night of the Meteor developer forum: https://www.maniac-mansion-mania.de/forum/index.php?board=18.0  
+- English Night of the Meteor thread: https://www.maniac-mansion-mania.de/forum/index.php?board=19.0
+
 **What’s inside**
 
 - Reference DAW workflow and monitoring habits  

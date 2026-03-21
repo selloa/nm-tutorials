@@ -28,7 +28,15 @@
 3. Follow [Production pipeline](pipeline.md) for how to share WIPs, receive notes, and submit finals.
 4. Use the [Glossary](glossary.md) if SCUMM-era or game-audio terms are unfamiliar.
 
-Contact channels (forum thread, Discord, email) should be **linked from the official project or forum announcement** when you post this site—this repo only holds the tutorial text.
+## Official links
+
+- [Night of the Meteor project site](https://night-of-the-meteor.de/)
+- [Maniac Mansion Mania community website](https://www.maniac-mansion-mania.de/)
+- [Maniac Mansion Mania forum](http://www.maniac-mansion-mania.de/forum/index.php)
+- [German Night of the Meteor developer forum](https://www.maniac-mansion-mania.de/forum/index.php?board=18.0)
+- [English Night of the Meteor thread](https://www.maniac-mansion-mania.de/forum/index.php?board=19.0)
+
+These are the main public entry points for project news and community discussion. If additional contact channels such as Discord or email are relevant, link them from the official project or forum announcement rather than treating this repo as the source of truth.
 
 ## Table of contents
 
