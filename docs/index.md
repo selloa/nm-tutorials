@@ -26,9 +26,10 @@
 1. Read [Technical setup](setup.md) and [Alternatives](alternatives.md) so you know what workflow is supported.
 2. Use [Downloads & links](downloads.md) to install the tools you need.
 3. Read [File formats & specs](formats.md) so exports are usable on first try.
-4. Follow [Production pipeline](pipeline.md) for how to share WIPs, receive notes, and submit finals.
-5. Use the [Glossary](glossary.md) if SCUMM-era or game-audio terms are unfamiliar.
-6. Reach out in the official community forums ([MMM community forum](http://www.maniac-mansion-mania.de/forum/index.php) + [Night of the Meteor boards](https://www.maniac-mansion-mania.de/forum/index.php?board=18.0)) to align your idea with the team.
+4. Read [Cutscene and cue file naming](file-naming-conventions.md) so filenames match the pipeline.
+5. Follow [Production pipeline](pipeline.md) for how to share WIPs, receive notes, and submit finals.
+6. Use the [Glossary](glossary.md) if SCUMM-era or game-audio terms are unfamiliar.
+7. Reach out in the official community forums ([MMM community forum](http://www.maniac-mansion-mania.de/forum/index.php) + [Night of the Meteor boards](https://www.maniac-mansion-mania.de/forum/index.php?board=18.0)) to align your idea with the team.
 
 Ideas from the writing process can be posted and discussed in the relevant *Night of the Meteor* / *Maniac Mansion Mania* forum threads linked below.
 
@@ -62,6 +63,7 @@ The best next step is a short post with your idea, intended in-game use, and a r
 | [Template files](templates.md) | Current MuseScore template downloads and future template categories. |
 | [Alternatives](alternatives.md) | Other tools that can hit the same targets. |
 | [File formats & specs](formats.md) | Deliverable formats, naming, loops. |
+| [Cutscene and cue file naming](file-naming-conventions.md) | Project filename template: game, scene, stage, branch, version. |
 | [Production pipeline](pipeline.md) | Brief → WIP → review → final → QA → integration. |
 | [Glossary](glossary.md) | Terms used in adventure-game audio. |
 

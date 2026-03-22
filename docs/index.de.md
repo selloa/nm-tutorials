@@ -1,5 +1,5 @@
 # Musikproduktion für *Night of the Meteor*
-<!-- translation-sync: {"source": "index.md", "source_hash": "sha256:e421b56944a08530a0d74b76f03837a9ea6e0aea350304c3f79406a18afa81b6"} -->
+<!-- translation-sync: {"source": "index.md", "source_hash": "sha256:744dda02b380a804437654cd9999be71b9db67d5775d358e57bd532d60e89c06"} -->
 
 *Night of the Meteor* ist ein langjähriges Fan-Remake von *Maniac Mansion*. In der Community gab es bereits strukturierte Zusammenarbeit bei **Grafik** und **Animation**, bei der **Musik** aber bisher nicht in derselben Form. Diese Tutorials erklären externen Komponierenden, **wie** sie am Score mitarbeiten können: Werkzeuge, Deliverables und der Weg von einer Idee zu einem Beitrag, den das Team tatsächlich ins Spiel übernehmen kann.
 
@@ -27,9 +27,10 @@ Die **kreative Richtung** bleibt bei der musikalischen Leitung und dem Kernentwi
 1. Lies [Technisches Setup](setup.md) und [Alternativen](alternatives.md), damit du den unterstützten Workflow kennst.
 2. Nutze [Downloads & Links](downloads.md), um die benötigten Tools zu installieren.
 3. Lies [Dateiformate & Spezifikationen](formats.md), damit Exporte direkt nutzbar sind.
-4. Folge dem [Produktionsablauf](pipeline.md), um WIPs zu teilen, Notes zu bekommen und Finals einzureichen.
-5. Nutze das [Glossar](glossary.md), wenn dir Begriffe aus der SCUMM-Ära oder aus Game Audio noch fehlen.
-6. Melde dich in den offiziellen Community-Foren ([MMM-Community-Forum](http://www.maniac-mansion-mania.de/forum/index.php) + [Night of the Meteor-Forenbereiche](https://www.maniac-mansion-mania.de/forum/index.php?board=18.0)), um deine Idee mit dem Team abzustimmen.
+4. Lies [Dateinamen für Cutscenes und Cues](file-naming-conventions.de.md), damit Dateinamen zur Pipeline passen.
+5. Folge dem [Produktionsablauf](pipeline.md), um WIPs zu teilen, Notes zu bekommen und Finals einzureichen.
+6. Nutze das [Glossar](glossary.md), wenn dir Begriffe aus der SCUMM-Ära oder aus Game Audio noch fehlen.
+7. Melde dich in den offiziellen Community-Foren ([MMM-Community-Forum](http://www.maniac-mansion-mania.de/forum/index.php) + [Night of the Meteor-Forenbereiche](https://www.maniac-mansion-mania.de/forum/index.php?board=18.0)), um deine Idee mit dem Team abzustimmen.
 
 Ideen aus dem Schreibprozess können in passenden Threads im *Night of the Meteor* / *Maniac Mansion Mania*-Forum (siehe offizielle Links unten) gepostet und diskutiert werden.
 
@@ -63,6 +64,7 @@ Der beste nächste Schritt ist ein kurzer Post mit deiner Idee, dem geplanten In
 | [Template-Dateien](templates.md) | Aktuelle MuseScore-Template-Downloads und künftige Template-Kategorien. |
 | [Alternativen](alternatives.md) | Andere Tools, die dieselben Ziele erreichen können. |
 | [Dateiformate & Spezifikationen](formats.md) | Lieferformate, Benennung, Loops. |
+| [Dateinamen für Cutscenes und Cues](file-naming-conventions.de.md) | Projekt-Vorlage für Dateinamen: Spiel, Szene, Stufe, Branch, Version. |
 | [Produktionsablauf](pipeline.md) | Briefing -> WIP -> Review -> Final -> QA -> Integration. |
 | [Glossar](glossary.md) | Begriffe aus dem Adventure-Game-Audio-Kontext. |
 

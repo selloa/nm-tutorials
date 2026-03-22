@@ -1,5 +1,5 @@
 # Dateiformate & Spezifikationen
-<!-- translation-sync: {"source": "formats.md", "source_hash": "sha256:04916bb35456d3f8e38b107cdb75e0b209b34de4879c18b82bcf1eaaba044ca5"} -->
+<!-- translation-sync: {"source": "formats.md", "source_hash": "sha256:f143c7d9e913cde81c61c32d59d160796a6d18aa91e4367fdc5d5ca93e21c329"} -->
 
 Diese Seite beschreibt, was Beitragende **idealerweise liefern**. Die exakten Anforderungen hängen vom **aktuellen** Audio-Importpfad von *Night of the Meteor* ab (ScummVM-Fork, interne Tools usw.). Alles, was noch nicht mit Programmierung oder Audio-Leitung abgestimmt ist, ist entsprechend markiert.
 
@@ -70,7 +70,9 @@ Mit der musikalischen Leitung eine **Referenz** abstimmen (z. B. Short-Term-LUFS
 
 Nutze möglichst **ASCII**-Dateinamen: `A-Z`, `0-9`, `_`, `-`. Leerzeichen vermeiden.
 
-Beispiel (nur illustrativ - **durch offizielles Schema ersetzen**):
+Für **Cutscenes und Szenen-Cues** gilt [Dateinamen für Cutscenes und Cues](file-naming-conventions.de.md) (Spiel, Szene, Pipeline-Stufe, Branch `B##`, Version `v##`, optional Export und Tags).
+
+Für andere Assets: ans Briefing halten. Einfaches Beispielmuster:
 
 ```text
 RM01_Day_AmbLoop_v02_stem_melody.wav

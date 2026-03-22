@@ -69,7 +69,9 @@ Agree a **reference** (e.g. short-term LUFS range or “match this shipped cue�
 
 Use **ASCII** filenames where possible: `A-Z`, `0-9`, `_`, `-`. Avoid spaces.
 
-Example pattern (illustrative only—**replace with official schema**):
+For **cutscenes and scene cues**, follow [Cutscene and cue file naming](file-naming-conventions.md) (game, scene, pipeline stage, branch `B##`, version `v##`, optional export and tags).
+
+For other assets, align with the brief. A simple illustrative pattern:
 
 ```text
 RM01_Day_AmbLoop_v02_stem_melody.wav

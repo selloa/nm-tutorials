@@ -9,6 +9,7 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  custom_dir: overrides
   language: en
   palette:
     - scheme: default
@@ -41,9 +42,13 @@ plugins:
           default: true
           name: English
           build: true
+          extra:
+            nav_sidebar_label: Contents
         - locale: de
           name: Deutsch
           build: true
+          extra:
+            nav_sidebar_label: Inhalt
           site_name: Night of the Meteor — Musik-Tutorials
           site_description: Community-Leitfaden für Musikbeiträge zu Night of the Meteor
           theme:
@@ -57,6 +62,7 @@ plugins:
             Template files: Template-Dateien
             Alternatives: Alternativen
             File formats & specs: Dateiformate & Spezifikationen
+            "Cutscene and cue file naming": "Dateinamen für Cutscenes und Cues"
             Production pipeline: Produktionsablauf
             Glossary: Glossar
             Forum post (draft): Forenbeitrag (Entwurf)
@@ -64,6 +70,7 @@ plugins:
   - search
 
 markdown_extensions:
+  - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -87,6 +94,7 @@ nav:
   - Template files: templates.md
   - Alternatives: alternatives.md
   - File formats & specs: formats.md
+  - "Cutscene and cue file naming": file-naming-conventions.md
   - Production pipeline: pipeline.md
   - Glossary: glossary.md
   - Forum post (draft): forum-post-draft.md
