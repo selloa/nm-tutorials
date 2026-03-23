@@ -1,4 +1,4 @@
-# Example: Short Transition Cue
+# Examples for Cues
 
 This example explains a concrete workflow from early writing to arranging and sound-design preparation.
 
@@ -10,12 +10,19 @@ It is here to document, in a transparent way, how contributions can move through
 
 So this page is both an accessible example and a public workflow reference for the wider community.
 
-## Step 1: Writing demo (early cue idea)
+## Step 1: Writing demo
 
 **Audio:** `demo-writing.mp3`
 
 <audio controls preload="none">
   <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo-writing.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+**Audio (Demo 2):** `demo2-writing.mp3`
+
+<audio controls preload="none">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo2-writing.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -31,12 +38,19 @@ At this stage, "unfinished" is acceptable when the cue already has:
 - A clear place in gameplay.
 - A clear place in the world/style of the game.
 
-## Step 2: Arranged early version (expansion by another contributor)
+## Step 2: Arranged early version
 
 **Audio:** `demo-orchestrated.mp3`
 
 <audio controls preload="none">
   <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo-orchestrated.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+**Audio (Demo 2):** `demo2-orchestrated.mp3`
+
+<audio controls preload="none">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo2-orchestrated.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -50,6 +64,13 @@ Possible arranging improvements in this stage:
 ## Step 3: sound design pass
 
 After arranging, a later production step can replace placeholder instruments with more authentic sound choices.
+
+**Audio (Demo 2):** `demo2-sounddesign.mp3`
+
+<audio controls preload="none">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo2-sounddesign.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 Typical goals in this stage:
 

@@ -57,7 +57,7 @@ The best next step is a short post with your idea, intended in-game use, and a r
 | Page | What it covers |
 |------|----------------|
 | [Production workflow](workflow.md) | Stage map from writing to mastering. |
-| [Example: Short Transition Cue](writing-to-arranging-example.md) | Two demo files showing how a rough writing cue can be expanded by arranging. |
+| [Examples for Cues](writing-to-arranging-example.md) | Two demo files showing how a rough writing cue can be expanded by arranging. |
 | [Technical setup](setup.md) | Reference workflow: DAW, monitoring, stems vs master, version habits. |
 | [Downloads & links](downloads.md) | Organized software download links by budget and workflow stage. |
 | [Template files](templates.md) | Current MuseScore template downloads and future template categories. |
