@@ -11,14 +11,50 @@ Es ist hier, um transparent zu dokumentieren, wie Beiträge in diesem Projekt du
 
 Damit ist diese Seite sowohl ein zugängliches Beispiel als auch eine öffentliche Workflow-Referenz für die Community.
 
-## Schritt 1: Writing-Demo (frühe Cue-Idee)
+## Beispiele
 
-**Audio:** `demo-writing.mp3`
+### Beispiel 1
+
+**Schritt 1: Writing-Demo (`demo-writing.mp3`)**
 
 <audio controls preload="none">
   <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo-writing.mp3" type="audio/mpeg">
   Dein Browser unterstützt das Audio-Element nicht.
 </audio>
+
+**Schritt 2: Frühe Arranging-Version (`demo-orchestrated.mp3`)**
+
+<audio controls preload="none">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo-orchestrated.mp3" type="audio/mpeg">
+  Dein Browser unterstützt das Audio-Element nicht.
+</audio>
+
+### Beispiel 2
+
+**Schritt 1: Writing-Demo (`demo2-writing.mp3`)**
+
+<audio controls preload="none">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo2-writing.mp3" type="audio/mpeg">
+  Dein Browser unterstützt das Audio-Element nicht.
+</audio>
+
+**Schritt 2: Frühe Arranging-Version (`demo2-orchestrated.mp3`)**
+
+<audio controls preload="none">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo2-orchestrated.mp3" type="audio/mpeg">
+  Dein Browser unterstützt das Audio-Element nicht.
+</audio>
+
+**Schritt 3: Sound-Design-Pass (`demo2-sounddesign.mp3`)**
+
+<audio controls preload="none">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo2-sounddesign.mp3" type="audio/mpeg">
+  Dein Browser unterstützt das Audio-Element nicht.
+</audio>
+
+## Erklärung der Schritte
+
+### Schritt 1: Writing-Demo
 
 Was diese erste Version leisten soll:
 
@@ -32,14 +68,7 @@ In dieser Phase ist "unfertig" in Ordnung, solange der Cue bereits hat:
 - Einen klaren Platz im Gameplay.
 - Einen klaren Platz in Welt und Stil des Spiels.
 
-## Schritt 2: Frühe Arranging-Version (Erweiterung durch eine andere mitwirkende Person)
-
-**Audio:** `demo-orchestrated.mp3`
-
-<audio controls preload="none">
-  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo-orchestrated.mp3" type="audio/mpeg">
-  Dein Browser unterstützt das Audio-Element nicht.
-</audio>
+### Schritt 2: Frühe Arranging-Version
 
 Mögliche Verbesserungen im Arranging-Schritt:
 
@@ -48,7 +77,7 @@ Mögliche Verbesserungen im Arranging-Schritt:
 - Dramaturgische Kontur für die Zielszene stärken.
 - Struktur so halten, dass spätere Sound-Design-Arbeit gut anschließen kann.
 
-## Schritt 3: Sound-Design-Pass
+### Schritt 3: Sound-Design-Pass
 
 Nach dem Arranging kann in einem späteren Produktionsschritt die Platzhalter-Instrumentierung durch authentischere Klangquellen ersetzt werden.
 
@@ -56,7 +85,7 @@ Typische Ziele in dieser Phase:
 
 - Skizzen-Sounds durch spielgeeignete Klangfarben ersetzen.
 - Instrumentenfarbe auf Zielstil und Szenenstimmung abstimmen.
-- Motivklarheit und Arrangement-Intention aus den frühen Schritten erhalten.
+- Motivklarheit und Arrangement-Intention aus den fruehen Schritten erhalten.
 - Cue für konsistentes Mixing/Mastering im Gesamt-Soundtrack vorbereiten.
 
 Hier beginnt der Cue meist, weniger nach Demo und stärker nach final nutzbarem Ingame-Material zu klingen.

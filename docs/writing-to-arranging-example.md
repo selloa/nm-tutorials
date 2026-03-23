@@ -10,21 +10,50 @@ It is here to document, in a transparent way, how contributions can move through
 
 So this page is both an accessible example and a public workflow reference for the wider community.
 
-## Step 1: Writing demo
+## Examples
 
-**Audio:** `demo-writing.mp3`
+### Example 1
+
+**Step 1: Writing demo (`demo-writing.mp3`)**
 
 <audio controls preload="none">
   <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo-writing.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
-**Audio (Demo 2):** `demo2-writing.mp3`
+**Step 2: Arranged early version (`demo-orchestrated.mp3`)**
+
+<audio controls preload="none">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo-orchestrated.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+### Example 2
+
+**Step 1: Writing demo (`demo2-writing.mp3`)**
 
 <audio controls preload="none">
   <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo2-writing.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+
+**Step 2: Arranged early version (`demo2-orchestrated.mp3`)**
+
+<audio controls preload="none">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo2-orchestrated.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+**Step 3: Sound design pass (`demo2-sounddesign.mp3`)**
+
+<audio controls preload="none">
+  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo2-sounddesign.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+## Step explanations
+
+### Step 1: Writing demo
 
 What this first version is meant to do:
 
@@ -38,21 +67,7 @@ At this stage, "unfinished" is acceptable when the cue already has:
 - A clear place in gameplay.
 - A clear place in the world/style of the game.
 
-## Step 2: Arranged early version
-
-**Audio:** `demo-orchestrated.mp3`
-
-<audio controls preload="none">
-  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo-orchestrated.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-**Audio (Demo 2):** `demo2-orchestrated.mp3`
-
-<audio controls preload="none">
-  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo2-orchestrated.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+### Step 2: Arranged early version
 
 Possible arranging improvements in this stage:
 
@@ -61,16 +76,9 @@ Possible arranging improvements in this stage:
 - Strengthen dramatic contour for the target scene use.
 - Keep structure compatible with later sound-design work.
 
-## Step 3: sound design pass
+### Step 3: Sound design pass
 
 After arranging, a later production step can replace placeholder instruments with more authentic sound choices.
-
-**Audio (Demo 2):** `demo2-sounddesign.mp3`
-
-<audio controls preload="none">
-  <source src="/nm-tutorials/assets/audio/writing-to-arranging/demo2-sounddesign.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
 
 Typical goals in this stage:
 

@@ -81,6 +81,7 @@ markdown_extensions:
 extra_javascript:
   - assets/javascripts/language-redirect.js
   - assets/javascripts/language-toggle.js
+  - assets/javascripts/audio-choke.js
 
 extra_css:
   - assets/stylesheets/language-toggle.css

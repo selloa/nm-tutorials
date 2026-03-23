@@ -1,0 +1,14 @@
+---
+description: Require synchronized updates across English and German page versions
+alwaysApply: true
+---
+
+# Bilingual Page Sync Requirement
+
+For any page/content change, update both language versions in the same task.
+
+- If you edit an English page (for example `docs/foo.md`), also edit the German counterpart (`docs/foo.de.md`) when it exists or is expected.
+- If you edit a German page, also update the English source page so both versions stay aligned.
+- Treat one-language-only content edits as incomplete unless the user explicitly asks to skip the other language.
+- Keep structure, headings, code samples, and key meaning equivalent across both versions (natural translation is fine; exact wording is not required).
+- In the final response, list both files changed and confirm bilingual sync.
